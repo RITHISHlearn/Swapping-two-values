@@ -18,11 +18,16 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-x= eval(input())\n
+x= eval(input())
+
 y = eval(input())
+
 temp = x
+
 x = y
+
 y = temp
+
 print("Swapped values are:",x,y)
 ## OUTPUT:
 ![py pro1](https://github.com/RITHISHlearn/Swapping-two-values/assets/145446645/448fe2a3-eb76-40ba-a68d-0a1a39d644a7)
