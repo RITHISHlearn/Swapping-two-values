@@ -18,7 +18,7 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-x= eval(input())
+x= eval(input())\n
 y = eval(input())
 temp = x
 x = y
