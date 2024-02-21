@@ -20,9 +20,9 @@ End the program
 ## PROGRAM:
 #Program to swap two values.
 
-#Developed by: RITHISH P
+##Developed by: RITHISH P
 
-#RegisterNumber : 212223230173
+##RegisterNumber : 212223230173
 
 x = int(input())
 
