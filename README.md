@@ -18,9 +18,15 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-x= eval(input())
+#Program to swap two values.
 
-y = eval(input())
+#Developed by: RITHISH P
+
+#RegisterNumber : 212223230173
+
+x = int(input())
+
+y = int(input())
 
 temp = x
 
@@ -28,9 +34,11 @@ x = y
 
 y = temp
 
-print("Swapped values are:",x,y)
+print("Swapped values are: {} {}".format(x,y))
+
 ## OUTPUT:
-![py pro1](https://github.com/RITHISHlearn/Swapping-two-values/assets/145446645/448fe2a3-eb76-40ba-a68d-0a1a39d644a7)
+![image](https://github.com/RITHISHlearn/Swapping-two-values/assets/145446645/2e8cdfd7-e3f5-4b9f-a2b6-2e61f6590bac)
+
 
 
 
